@@ -12,13 +12,14 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 import rosegraphics as rg
 
+
 ########################################################################
 # Students:  You will not write any code in this module,
 #            but there ARE things TO DO below.
 ########################################################################
 
 # ----------------------------------------------------------------------
-# TODO: 2.
+# done: 2.
 #  Step a:  READ the   mutate_point   function below.
 #
 #  Step b:  Note that the code in main has 5 parts numbered 1, 2, ... 5.
